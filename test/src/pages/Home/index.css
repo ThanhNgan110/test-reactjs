@@ -1,0 +1,32 @@
+.wrapper {
+  padding: 25px;
+}
+
+.frame {
+  position: relative;
+  margin-top: 10px;
+  width: auto;
+  border: 1px solid var(--color-primary);
+}
+
+.space-gap-10 {
+  gap: 30px;
+}
+
+.message {
+  font-weight: var(--font-weight-bold);
+  font-size: var(--font-size-md);
+  margin-bottom: 10px;
+}
+
+.text-success {
+  color: var(--color-success);
+}
+
+.text-error {
+  color: var(--color-error);
+}
+
+.box-space {
+  gap: 10px;
+}
